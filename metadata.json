@@ -1,0 +1,6 @@
+{
+  "name": "MediCare Hospital",
+  "description": "A comprehensive hospital appointment scheduling system with patient, doctor, and admin portals featuring real-time booking, priority assignment, and schedule management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
