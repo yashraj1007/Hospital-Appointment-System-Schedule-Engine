@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/898cdeb2-25a3-4d70-842b-b0330
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+# Hospital-Appointment-System-Schedule-Engine
